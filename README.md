@@ -128,7 +128,7 @@ This project helped me gain practical experience with:
 
 This project is currently **incomplete**.
 
-Approximately **6–7 application screens** have been developed, focusing primarily on the user interface and navigation. Development was paused before implementing backend functionality, authentication, database integration, and the remaining features.
+Approximately **6–7 application screens** have been developed, focusing primarily on the user interface and navigation. Development was paused
 
 This repository is maintained to showcase my learning progress in **React Native** and mobile application development.
 
